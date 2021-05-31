@@ -1,0 +1,12 @@
+Compilation Exception
+	Caused by Unexpected token begim ,Expected: begin at line 1
+
+Compilation Exception
+	Caused by Unexpected token ; ,Expected: end at line 5
+
+Compilation Exception
+	Caused by Unexpected token ; ,Expected: loop at line 7
+
+Compilation Exception
+	Caused by Unexpected token else , Invalid token at line 4
+
